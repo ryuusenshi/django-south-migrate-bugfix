@@ -1,0 +1,9 @@
+test.db
+*.pyc
+*.swp
+*.egg
+*.egg-info
+build
+_build
+dist
+.coverage
